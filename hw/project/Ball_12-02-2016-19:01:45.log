@@ -1,0 +1,175 @@
+INFO:root: Ball STARTED
+INFO:root: CONNECTION MADE with Ball.
+INFO:root: RECEIVED: AT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450.
+INFO:root: SENT MESSAGE: AT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450 to servers: ['Holiday', 'Welsh'].
+INFO:root: CONNECTION LOST with Ball.
+INFO:root: CONNECTION MADE with Ball.
+INFO:root: RECEIVED: AT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450.
+INFO:root: CONNECTION LOST with Ball.
+INFO:root: CONNECTION MADE with Ball.
+INFO:root: RECEIVED: WHATSAT kiwi.cs.ucla.edu 10 5.
+INFO:root: REPLY to WHATSAT: AT Ball 1320224.26732 kiwi.cs.ucla.edu 10 5
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3373061,
+                  "lng" : -118.1552891
+               },
+               "southwest" : {
+                  "lat" : 33.7036917,
+                  "lng" : -118.6681759
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+         "name" : "Los Angeles",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110754648019535581166/photos\"\u003eirvin leon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMrwSvZyg4flZtugA6JlArEKZ0bXIbyaK6htaPccnFa3l-LncCtkgrlQDNSLrggRusSRUblQ-aMe9B_Dv7pc0mCJpW3y2Lx7tC8XkFz7MI4ZiTquC72_kXFqrdZ3kvW1WCXQiFByy--0Wc6F25sLjOSs3Z1_2U0UKH_ogVFrBHJhEhDtXVU4aNpQao7AFJFHNVC8GhR-wzenu47EFZSYZrsaYLD56HXa7g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "reference" : "CmRbAAAAP65LuYSBY1l6l9n-tKYfErKwL6ZlVUz6eUfp7c_6DK1Dy1hH1WytDxba6AQiJ_cqu0Nh8XUESZUgCmXZI4Fav89LKXcAdhPtVs-azhDbUVKfFD33G5mIzZFEasRHmqhfEhC_zI6Ke_5mvKhEQ5xAcbCmGhTNzlXRYwBIr51yek2KwVM4L98u8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.068921,
+               "lng" : -118.4451811
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.08632165,
+                  "lng" : -118.4298687
+               },
+               "southwest" : {
+                  "lat" : 34.05637465,
+                  "lng" : -118.4632287
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+         "name" : "University of California, Los Angeles",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116579609121253458406/photos\"\u003eGeorge Germanos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAASu9IbpnslScobLY6DxDOvDzVqaemXpjclvuSNd2Bt-aCaiVU9p4_PfJkSMewA_I9G_fFISZUxNuNw1_VoQysrljJers1x0Ume7EZpAzXRgi3uSmPvuGJEW878oYO_RW_1jTy1VdaI2WSvdWfcegBtGoI4ZOZSWPsXt74SGe5ENEhDeoEWscZnEGQs1ZUWssMntGhR0uvXei4kcJiwG_W9bYiZsMO-48g",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAAymBH1mvg7g-JcZZTCIK5xG5NPHDpYrutHOfSOqDsYgHEEQUYvoji5aQ8YJiFiIBiB1g96haCRfGsH-l7ffza_ahDXiPqzspxu7oNH2kISEb6YWUFpObVe-N62e3nIKyEhBV4fZM1TVh2RYAzeklE0Z-GhQ5Ooms4fBPBtmTsqMG1CL8WFfs2g",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.068921,
+               "lng" : -118.4451811
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.06902119999999,
+                  "lng" : -118.4449249
+               },
+               "southwest" : {
+                  "lat" : 34.0688876,
+                  "lng" : -118.4452665
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "34aa535beb4a1b85c1deccb5d4324d2ae52d256e",
+         "name" : "University of California, Los Angeles",
+         "place_id" : "ChIJi2-gEH67woARErSL-8SY8zY",
+         "reference" : "CmRRAAAAM1jcPkj56hcgJzQJRkl7KLKU28NqlLW1sV3fhhnJZbmXBdlV2bbRgL1tCABOKun5gE3sY7O5SFKl2zFVX9VySWCz30H4h1aRrd3oaLrZ8FE4eF8mkGkqbEEQ133Rgs_gEhBa9ag2zhBTAk1mzXoAH3AhGhTiFpGVZRMIu4e-fqP2uI-gjjcRXw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.068921,
+               "lng" : -118.4451811
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a392fa0dad510c05b5d5a82616b17a59ca91ff45",
+         "name" : "Amazon Locker - Covel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ5Yvbq4i8woAR_hzXVkDyk74",
+         "reference" : "CmRSAAAAw0M2F0RcwnM-JLxYsXuY_mbEWx_GhLHb-uU8ZZrsYq-K9REc7rtfsY4rBl-wtt34Uz20KcRhhP_6XQzLbAdyBggdRUMdodpinXVo3H4jxGMp2oJ6q-Epjx40lfytu8feEhCWrebWvctAbCre0kY05ELYGhT9cV-w6JZFb1dsQoxo8sJAJy3sTw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "200 De Neve Dr, at UCLA Covel Commons, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0635016,
+               "lng" : -118.4455164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0827807,
+                  "lng" : -118.4141518
+               },
+               "southwest" : {
+                  "lat" : 34.0470589,
+                  "lng" : -118.4665319
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "87ef87c6cb98059f72b40a917e6e9c8c80e5d8b3",
+         "name" : "Westwood",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112416170407648723941/photos\"\u003eYingju Ma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOz2jCDuNmQZAH71PUBcdk8OLv34B5sQNoxDxMkbMRxBbyUUg5Q5BmH_QBwMDmdxoBp_Satnqfnr6KMYBy5TDDUCVyM8m9iv2g7vuoIWIdWlTjOVpYcpj3tw28sAACjVfdxZpZXEAl8ISaPx2GNvt_82IaguoC2TWSTQpIS6qGzHEhAsmFiN2bvzHmZAwByMXIjtGhQ3ujuJLDJ7d5MzVBdYqDBfyJ9TVQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJecf92oa8woARVlNT9X_x42M",
+         "reference" : "CmRbAAAA_EwM8e-x8Q2IsTexEKJXBLXN_Ge7vYoS0UtZrfxK9k0FkQItO0OyUvO7IJok8TVdjH_1_PqTBI3N-ON3mxHnFy2O8NHljgh7285bYhGiUyP_PKFRpClF-0DDDbGpyX-UEhDq4vNF_1hF4DcvVdt6vHZyGhTJn5megrLwRLicD6Zi3Vs6AaenwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Los Angeles"
+      }
+   ],
+   "status" : "OK"
+}
+
+INFO:root: CONNECTION LOST with Ball.
+INFO:root: Ball CLOSED

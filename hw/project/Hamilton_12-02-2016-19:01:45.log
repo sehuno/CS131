@@ -1,0 +1,6 @@
+INFO:root: Hamilton STARTED
+INFO:root: CONNECTION MADE with Hamilton.
+INFO:root: RECEIVED: AT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450.
+INFO:root: SENT MESSAGE: AT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450 to servers: ['Ball', 'Holiday'].
+INFO:root: CONNECTION LOST with Hamilton.
+INFO:root: Hamilton CLOSED

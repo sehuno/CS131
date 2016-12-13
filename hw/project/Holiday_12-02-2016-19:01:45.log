@@ -1,0 +1,6 @@
+INFO:root: Holiday STARTED
+INFO:root: CONNECTION MADE with Holiday.
+INFO:root: RECEIVED: AT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450.
+INFO:root: SENT MESSAGE: AT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450 to servers: ['Ball', 'Hamilton'].
+INFO:root: Holiday CLOSED
+INFO:root: CONNECTION LOST with Holiday.
